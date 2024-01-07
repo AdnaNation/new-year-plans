@@ -157,7 +157,7 @@
 /* footer style */
 footer {
     width: 1600px;
-    height: 577px;
+    height: 500px;
     background: #151414;
     padding-top: 150px;
 }
@@ -175,6 +175,7 @@ footer {
     color: #F8F8F8;
     font-size: 45px;
     font-weight: 700;
+    margin-bottom: 24px;
 
 }
 
@@ -183,6 +184,13 @@ footer {
     color: #FFF;
     font-size: 16px;
     font-weight: 400;
+    margin-bottom: 24px;
+}
+
+.future a img {
+    width: 46px;
+    height: 46px;
+    margin-right: 12px;
 }
 
 .subscribe-title {
