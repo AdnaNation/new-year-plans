@@ -152,3 +152,64 @@
 .note button {
     width: 160px;
 }
+
+/* footer style */
+footer {
+    width: 1600px;
+    height: 577px;
+    background: #151414;
+    padding-top: 150px;
+}
+
+.footer {
+    display: flex;
+
+}
+
+.future {
+    max-width: 485px;
+}
+
+.footer-title {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+
+}
+
+.footer-description,
+.contact {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.subscribe-title {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 35px;
+}
+
+input {
+    color: #F3F3F3;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    background: #151414;
+    width: 325px;
+    height: 64px;
+    margin-bottom: 15px;
+    padding: 21px 158x 21px 21px;
+}
+
+.subscribe-btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    width: 170px;
+    padding: 20px 36px;
+    border-radius: 8px;
+    background: #005FAC;
+}
