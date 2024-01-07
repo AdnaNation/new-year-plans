@@ -10,7 +10,7 @@
 /* header styles */
 .header {
     height: 800px;
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('../images/banner/banner3.png');
     background-repeat: no-repeat;
 
 }
