@@ -58,11 +58,15 @@
 /* Main section */
 .my-fast {
     display: flex;
-    justify-content: center;
     align-items: center;
     margin-top: 140px;
+    margin-left: 180px;
     gap: 0;
 
+}
+
+.failures {
+    margin-top: 200px;
 }
 
 .failures-title {
